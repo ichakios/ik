@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/ichakios"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ik cool component",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -74,5 +74,5 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "private": true
+  "private": false
 }
