@@ -146,7 +146,7 @@ Table.args = {
 };
 
 export default {
-	title: 'UI Library/Material UI/Table',
+	title: 'DataTable/UI Library/Material UI/Table',
 	component: Table,
 	parameters: {
 		docs: {

@@ -56,6 +56,6 @@ export const Custom = () => (
 );
 
 export default {
-	title: 'Theming/Custom ',
+	title: 'DataTable/Theming/Custom ',
 	component: Custom,
 };

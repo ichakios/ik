@@ -97,6 +97,6 @@ export const HookComponent = () => {
 };
 
 export default {
-	title: 'Performance/Examples/Hook Component',
+	title: 'DataTable/Performance/Examples/Hook Component',
 	component: HookComponent,
 };

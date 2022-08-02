@@ -150,7 +150,7 @@ KitchenSink.args = {
 };
 
 export default {
-	title: 'Getting Started/Kitchen Sink',
+	title: 'DataTable/Getting Started/Kitchen Sink',
 	component: KitchenSink,
 	parameters: {
 		controls: {

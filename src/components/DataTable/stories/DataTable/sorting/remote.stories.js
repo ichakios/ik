@@ -56,7 +56,7 @@ export const RemoteSort = () => {
 };
 
 export default {
-	title: 'Sorting/Remote Sort',
+	title: 'DataTable/Sorting/Remote Sort',
 	component: RemoteSort,
 	parameters: {
 		docs: {

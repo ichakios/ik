@@ -100,6 +100,6 @@ export const ClassicComponent = Template.bind({});
 ClassicComponent.args = {};
 
 export default {
-	title: 'Performance/Examples/Classic Component',
+	title: 'DataTable/Performance/Examples/Classic Component',
 	component: ClassicComponent,
 };

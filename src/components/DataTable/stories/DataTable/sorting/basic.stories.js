@@ -26,7 +26,7 @@ export const Basic = () => {
 };
 
 export default {
-	title: 'Sorting/Basic',
+	title: 'DataTable/Sorting/Basic',
 	component: Basic,
 	parameters: {
 		docs: {

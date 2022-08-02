@@ -41,7 +41,7 @@ export const PreExpanded = () => {
 };
 
 export default {
-	title: 'Expandable/Pre Expanded ',
+	title: 'DataTable/Expandable/Pre Expanded ',
 	component: PreExpanded,
 	parameters: {
 		docs: {

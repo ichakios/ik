@@ -35,6 +35,6 @@ export const Basic = () => {
 };
 
 export default {
-	title: 'Loading/Basic',
+	title: 'DataTable/Loading/Basic',
 	component: Basic,
 };

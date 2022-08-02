@@ -72,5 +72,5 @@ export const HideOnResize = () => {
 };
 
 export default {
-	title: 'Columns/Hide On Resize',
+	title: 'DataTable/Columns/Hide On Resize',
 };

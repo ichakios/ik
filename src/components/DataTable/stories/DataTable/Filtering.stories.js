@@ -117,6 +117,6 @@ export const Filtering = () => {
 };
 
 export default {
-	title: 'Examples/Filtering',
+	title: 'DataTable/Examples/Filtering',
 	component: Filtering,
 };

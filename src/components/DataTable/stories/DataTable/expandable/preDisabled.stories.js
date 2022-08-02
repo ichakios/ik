@@ -45,7 +45,7 @@ export const PreDisabled = () => {
 };
 
 export default {
-	title: 'Expandable/Pre Disabled ',
+	title: 'DataTable/Expandable/Pre Disabled ',
 	component: PreDisabled,
 	parameters: {
 		docs: {

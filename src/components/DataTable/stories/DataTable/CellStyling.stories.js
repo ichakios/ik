@@ -79,6 +79,6 @@ export const StaticStyling = () => (
 );
 
 export default {
-	title: 'Columns/Cells/Static Styling',
+	title: 'DataTable/Columns/Cells/Static Styling',
 	component: StaticStyling,
 };

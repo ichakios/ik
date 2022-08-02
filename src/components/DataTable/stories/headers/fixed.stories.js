@@ -44,6 +44,6 @@ FixedHeader.args = {
 };
 
 export default {
-	title: 'Headers/Fixed Header',
+	title: 'DataTable/Headers/Fixed Header',
 	component: FixedHeader,
 };

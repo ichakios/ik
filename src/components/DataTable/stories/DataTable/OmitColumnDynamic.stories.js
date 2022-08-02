@@ -37,6 +37,6 @@ export const OmitDynamically = () => {
 };
 
 export default {
-	title: 'Columns/Omit Dynamically',
+	title: 'DataTable/Columns/Omit Dynamically',
 	component: OmitDynamically,
 };

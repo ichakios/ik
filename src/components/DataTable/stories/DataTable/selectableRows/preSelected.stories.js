@@ -48,7 +48,7 @@ export const PreSelected = () => (
 );
 
 export default {
-	title: 'Selectable/Pre Selected',
+	title: 'DataTable/Selectable/Pre Selected',
 	component: PreSelected,
 	parameters: {
 		docs: {

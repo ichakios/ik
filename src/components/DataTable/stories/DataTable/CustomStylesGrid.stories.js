@@ -67,5 +67,5 @@ export const CompactGrid = () => (
 );
 
 export default {
-	title: 'Custom Styles/Compact Grid',
+	title: 'DataTable/Custom Styles/Compact Grid',
 };

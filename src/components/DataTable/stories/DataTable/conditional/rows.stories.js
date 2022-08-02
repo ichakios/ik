@@ -103,6 +103,6 @@ export const Rows = () => (
 );
 
 export default {
-	title: 'Conditional Rows/Rows',
+	title: 'DataTable/Conditional Rows/Rows',
 	component: Rows,
 };

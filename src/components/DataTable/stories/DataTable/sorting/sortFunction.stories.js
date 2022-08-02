@@ -44,7 +44,7 @@ export const CustomSort = () => {
 };
 
 export default {
-	title: 'Sorting/Custom Sort',
+	title: 'DataTable/Sorting/Custom Sort',
 	component: CustomSort,
 	parameters: {
 		docs: {

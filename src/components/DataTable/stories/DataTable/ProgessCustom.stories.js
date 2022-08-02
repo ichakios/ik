@@ -77,6 +77,6 @@ export const Custom = () => {
 };
 
 export default {
-	title: 'Loading/Custom',
+	title: 'DataTable/Loading/Custom',
 	component: Custom,
 };

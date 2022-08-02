@@ -43,7 +43,7 @@ Builtin.args = {
 };
 
 export default {
-	title: 'Theming/Builtin',
+	title: 'DataTable/Theming/Builtin',
 	component: Builtin,
 	argTypes: {
 		theme: {

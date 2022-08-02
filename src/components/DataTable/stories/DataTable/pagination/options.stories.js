@@ -39,7 +39,7 @@ export const Options = () => (
 );
 
 export default {
-	title: 'Pagination/Options',
+	title: 'DataTable/Pagination/Options',
 	component: Options,
 	parameters: {
 		docs: {

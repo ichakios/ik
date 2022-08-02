@@ -24,7 +24,7 @@ const columns = [
 export const Basic = () => <DataTable title="Movie List" columns={columns} data={data} selectableRows pagination />;
 
 export default {
-	title: 'Selectable/Basic',
+	title: 'DataTable/Selectable/Basic',
 	component: Basic,
 	parameters: {
 		docs: {

@@ -2,6 +2,7 @@ import DataTable from "./DataTable/DataTable";
 
 export { default as Button } from "./Button";
 export { default as IKTable } from "./Table";
+export { default as DataTable }  from "./DataTable/DataTable";
 export { defaultThemes, createTheme } from './DataTable/themes';
 export * from './DataTable/constants';
 export type {
@@ -22,5 +23,3 @@ export type {
 	SortFunction,
 	Selector,
 } from './DataTable/types';
-
-export default DataTable;

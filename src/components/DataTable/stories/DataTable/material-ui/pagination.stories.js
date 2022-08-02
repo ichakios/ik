@@ -98,7 +98,7 @@ export function Pagination() {
 }
 
 export default {
-	title: 'UI Library/Material UI/Pagination',
+	title: 'DataTable/UI Library/Material UI/Pagination',
 	component: Pagination,
 	parameters: {
 		docs: {

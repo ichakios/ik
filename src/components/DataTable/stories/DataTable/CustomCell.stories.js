@@ -73,6 +73,6 @@ export const CustomCells = () => (
 );
 
 export default {
-	title: 'Columns/Cells/Custom Cells',
+	title: 'DataTable/Columns/Cells/Custom Cells',
 	component: CustomCells,
 };

@@ -72,7 +72,7 @@ export const Remote = () => {
 };
 
 export default {
-	title: 'Pagination/Remote',
+	title: 'DataTable/Pagination/Remote',
 	component: Remote,
 	parameters: {
 		docs: {

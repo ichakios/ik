@@ -75,6 +75,6 @@ export const ExportCSV = () => {
 };
 
 export default {
-	title: 'Examples/Export CSV',
+	title: 'DataTable/Examples/Export CSV',
 	component: ExportCSV,
 };

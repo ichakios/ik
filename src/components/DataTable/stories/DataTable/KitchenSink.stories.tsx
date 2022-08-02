@@ -7,7 +7,7 @@ import TextField from '@material-ui/core/TextField';
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 import data from '../constants/sampleMovieData';
-import DataTable, { Alignment, Direction, TableProps, TableColumn, ExpanderComponentProps } from '../../../index';
+import { DataTable, Alignment, Direction, TableProps, TableColumn, ExpanderComponentProps } from '../../../index';
 
 interface Row {
 	title: string;

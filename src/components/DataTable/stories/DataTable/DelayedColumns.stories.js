@@ -34,6 +34,6 @@ export const Delayed = () => {
 };
 
 export default {
-	title: 'Columns/Delayed',
+	title: 'DataTable/Columns/Delayed',
 	Component: Delayed,
 };

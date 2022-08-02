@@ -72,5 +72,5 @@ export const Reorder = () => {
 };
 
 export default {
-	title: 'Columns/Reorder',
+	title: 'DataTable/Columns/Reorder',
 };

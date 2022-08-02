@@ -42,7 +42,7 @@ export const CustomColumnSort = () => {
 };
 
 export default {
-	title: 'Sorting/Custom Column Sort',
+	title: 'DataTable/Sorting/Custom Column Sort',
 	component: CustomColumnSort,
 	parameters: {
 		docs: {

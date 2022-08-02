@@ -66,7 +66,7 @@ Progress.args = {
 };
 
 export default {
-	title: 'UI Library/Material UI/Progress',
+	title: 'DataTable/UI Library/Material UI/Progress',
 	component: Progress,
 	parameters: {
 		docs: {

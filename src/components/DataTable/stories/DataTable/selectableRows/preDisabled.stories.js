@@ -58,7 +58,7 @@ export const PreDisabled = () => (
 );
 
 export default {
-	title: 'Selectable/Pre Disabled',
+	title: 'DataTable/Selectable/Pre Disabled',
 	component: PreDisabled,
 	parameters: {
 		docs: {

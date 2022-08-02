@@ -113,6 +113,6 @@ export const GoogleSheetsEsque = () => (
 );
 
 export default {
-	title: 'Custom Styles/Google Sheets Esque',
+	title: 'DataTable/Custom Styles/Google Sheets Esque',
 	component: GoogleSheetsEsque,
 };

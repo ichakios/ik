@@ -127,6 +127,6 @@ export const ConditionalStyling = () => (
 );
 
 export default {
-	title: 'Columns/Cells/Conditional Styling',
+	title: 'DataTable/Columns/Cells/Conditional Styling',
 	component: ConditionalStyling,
 };

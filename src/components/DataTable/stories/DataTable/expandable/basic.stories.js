@@ -49,7 +49,7 @@ Basic.args = {
 };
 
 export default {
-	title: 'Expandable/Basic',
+	title: 'DataTable/Expandable/Basic',
 	component: Basic,
 	parameters: {
 		docs: {

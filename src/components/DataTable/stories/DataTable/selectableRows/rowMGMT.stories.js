@@ -63,7 +63,7 @@ export const ManageSelections = () => {
 };
 
 export default {
-	title: 'Selectable/Manage Selections',
+	title: 'DataTable/Selectable/Manage Selections',
 	component: ManageSelections,
 	parameters: {
 		docs: {
